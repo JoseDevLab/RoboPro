@@ -1,0 +1,21 @@
+clear;
+clc;
+f7=figure(7);
+clf
+hold on;
+set(f7,'Color',[1, 1, 1]);
+grid on;
+xlabel('x','FontSize',15);
+ylabel('y','FontSize',15);
+zlabel('z','FontSize',15);
+view(10,28)
+axis equal;
+light;
+pos = [1,1,1];
+vec = [1,1,1];
+tflecha = 2;
+tpunta = 0.8;
+dcil = 1;
+dcono = 2;
+color = [0,0,1];
+dibujar_flecha3D(pos, vec,tflecha, tpunta,dcil,dcono, color);

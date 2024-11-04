@@ -1,0 +1,9 @@
+clear;
+figure(1);
+clf;
+hold on;
+grid on
+axis equal
+view(3)
+light;
+dibujarRobot(0,300,250,0)

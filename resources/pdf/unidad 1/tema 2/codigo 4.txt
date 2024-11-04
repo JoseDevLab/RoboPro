@@ -1,0 +1,18 @@
+clear;
+clc;
+f8=figure(8);
+clf;
+hold on
+set(f8,'Color',[1, 1, 1]);
+grid on;
+xlabel('x','FontSize',15);
+ylabel('y','FontSize',15);
+zlabel('z','FontSize',15);
+view(28,54)
+axis equal;
+light;
+Sn = [sqrt(2)/2 , -sqrt(2)/2 , 0 , 0 ; ...
+      0         , 0          , 1 , 0 ; ...
+      sqrt(2)/2 ,  sqrt(2)/2 , 0 , 0 ; ...
+      0         ,          0 , 0 , 1 ];
+dibujar_sistema_coordenadas_3D(Sn, 10, 2, 'n');

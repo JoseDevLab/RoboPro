@@ -1,0 +1,28 @@
+clear;
+f1 = figure(1);
+set(gcf, 'WindowState', 'maximized'); %Se maximiza la figura
+pause(0.1);
+clf;
+hold on;
+grid on;
+axis equal;
+view(135, 30);
+light;
+xlabel('Eje X');
+ylabel('Eje Y');
+zlabel('Eje Z');
+title('Animación robot 3D');
+nCuadros = 30; %-> Se define la cantidad de cuadros de animación
+tFinal = 2;    %-> Se define la duración de la animación
+dt = tFinal/(nCuadros-1); %-> Se calcula la duración de cada cuadro
+q1=linspace(-90,45,nCuadros); %-> Se crea la secuencia de puntos
+q2=linspace(0,300,nCuadros);  % de las 4 articulaciones, pueden
+q3=linspace(0,350,nCuadros);  % generarse en base al control cinemático
+q4=linspace(0,340,nCuadros);  % y dinámico
+for i = 1:nCuadros
+    if exist('robot') == 1
+        delete(robot); %-> Se borra el robot en la figura
+    end
+    robot = dibujarRobot(q1(i), q2(i), q3(i), q4(i));
+    pause(dt);
+end

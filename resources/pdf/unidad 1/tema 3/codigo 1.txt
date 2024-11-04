@@ -1,0 +1,19 @@
+clear;
+% Lee el archivo STL
+[V,~,~,~] = stlread('Eslabon_0.stl');
+vertices = V.Points;
+faces = V.ConnectivityList;
+% Crear una figura
+figure(1);
+clf;
+hold on;
+grid on;
+axis equal;  % Configurar los ejes para que tengan la misma escala
+light;
+view(3);
+xlabel('Eje X');
+ylabel('Eje Y');
+zlabel('Eje Z');
+title('Modelo STL en R3');
+% Dibujar el modelo
+patch('Faces', faces, 'Vertices', vertices, 'FaceColor', 'r','EdgeColor','k');

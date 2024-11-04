@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>abstractVideos</class>
+ <widget class="QMainWindow" name="abstractVideos">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>733</width>
+    <height>474</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Videos</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>resources/images/icon.jpeg</normaloff>resources/images/icon.jpeg</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:rgba(0,0,0,0);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="styleSheet">
+       <string notr="true">/****QScrollBar Vertical****/
+QScrollBar:vertical {
+    border: 2px solid rgb(218, 218, 218);
+    background: rgb(239, 184, 16);
+    width: 17px;
+    margin: 22px 0 22px 0;
+}
+QScrollBar::handle:vertical {
+    background: rgb(0, 51, 102);
+    min-height: 20px;
+}
+QScrollBar::add-line:vertical {
+    border: 2px solid rgba(173, 51, 51,255);
+    background: rgb(0, 51, 102);
+    height: 20px;
+    subcontrol-position: bottom;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:vertical {
+    border: 2px solid rgba(173, 51, 51,255);
+    background: rgb(0, 51, 102);
+    height: 20px;
+    subcontrol-position: top;
+    subcontrol-origin: margin;
+}
+QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+    border: 2px solid rgb(239, 184, 16);
+    width: 3px;
+    height: 3px;
+    background: rgb(218, 218, 218);
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: rgb(218, 218, 218);
+}
+
+
+/****QScrillBar horizontal****/
+QScrollBar:horizontal {
+    border: 2px solid rgb(218, 218, 218);
+    background: rgb(218, 218, 218);
+    height: 17px;
+    margin: 0px 22px 0 22px;
+}        
+QScrollBar::handle:horizontal {
+    background: rgb(0, 51, 102);
+    min-width: 20px;
+}        
+QScrollBar::add-line:horizontal {
+    border: 2px solid rgba(173, 51, 51,255);
+    background: rgb(0, 51, 102);
+    width: 20px;
+    subcontrol-position: right;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+    border: 2px solid rgba(173, 51, 51,255);
+    background: rgb(0, 51, 102);
+    width: 20px;
+    subcontrol-position: left;
+    subcontrol-origin: margin;
+}
+QScrollBar:left-arrow:horizontal, QScrollBar::right-arrow:horizontal {
+    border: 2px solid rgb(239, 184, 16);
+    width: 3px;
+    height: 3px;
+    background: rgb(218, 218, 218);
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+    background: rgb(218, 218, 218);
+}</string>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>731</width>
+         <height>100</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true"/>
+       </property>
+       <layout class="QVBoxLayout" name="layoutVideos">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <property name="leftMargin">
+         <number>0</number>
+        </property>
+        <property name="topMargin">
+         <number>0</number>
+        </property>
+        <property name="rightMargin">
+         <number>0</number>
+        </property>
+        <property name="bottomMargin">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="WebView" name="video_1" native="true">
+          <property name="minimumSize">
+           <size>
+            <width>0</width>
+            <height>100</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>WebView</class>
+   <extends>QWidget</extends>
+   <header location="global">clases.WebView</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,19 @@
+clear;
+clc;
+pos = [0,0,10];
+vec = [1,1,1];
+t = 5;
+d = 4;
+color = [1,0,0];
+color_borde = [0,0,0];
+figure(1)
+clf;
+hold on
+grid on
+axis equal;
+light;
+view(70,20);
+xlabel('x','FontSize',15);
+ylabel('y','FontSize',15);
+zlabel('z','FontSize',15);
+dibujar_cono(pos, vec,t,d, color, color_borde);
