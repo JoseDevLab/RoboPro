@@ -17,3 +17,17 @@ A shortcut of the application will be created on the desktop.
 5) Register button: shows the view that allows you to register.
 6) Reset button: shows the view that allows you to reset your password.
 7) Login as Guest button: allows you to log in as a guest.
+
+## Choose a unit
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPvD-BofJrI1X4KNkdGOJVpmv7ULZfHgvthMtwGjYDGtLPv3n9S15sUy-7VskILs00EO-jrDbRxA_ZaijPoenVf1qxzkfk3w4CVVr8p783T3kNgdRgW2m3FHVt1wXL2uTd5nuFGNdNefoYXxyKLHUvr=w1223-h688-s-no)
+
+## Choose a topic
+
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPx2u-xvzn6kI-WIgE3255EwA80a52uUtvkCJY-n1Pf2sdTgmOOzYH4H1ahTPoAVRZNo_mK-j6weugdMTwymt0IL3ugSYYimu6V2yvNfVIUoQny_EB2fNtm5kYvnbeXBJ7HOM8bsjeCOcJuVkeo6Mng=w935-h655-s-no?authuser=0)
+
+## Learn
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPLLNGS7LGdqbD95iZyRZ7J2As0aFuJhed6oT0EE4UvCpll5KjjHDLSYxaBqWRtauu83j_znjLXSxhF4QxBvWBw7lwn1Ch0TCPnCHIz1AwYoQ0alN8Vjf55MkY6t2PmbO9mMn1EiAmAODXFgDBB0c7V=w935-h655-s-no?authuser=0)
+
+## Explore simulations
+Continue exploring the 23 simulations developed to facilitate learning robotics.
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPrKTMy8FAO29Z6Emt_hAh8b5kXdnr8NhOrwymtQjy0vZ_IzYmHbgSOHFzkLhbCkpvYPzCLCZHOpm-zixq3MwquXnncHmx4bDoAkp05rLmykFcnLWomIlZabUxssm5bd24cezRNxY2MzXx4ypSsUwJS=w998-h468-s-no?authuser=0)
