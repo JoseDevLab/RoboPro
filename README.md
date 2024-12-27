@@ -19,15 +19,18 @@ A shortcut of the application will be created on the desktop.
 7) Login as Guest button: allows you to log in as a guest.
 
 ## Choose a unit
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczMj1jYGyUf72m5RMuvswxx5dJw2ovHQd0gGrg9SlY6D2JAqV57X8mRMV2LRPV5O1Uttrdt4usO6N3z0L7nbeabt7FHvLG4W-rKXh0OKKFsixidGTUAi88h7SIvVrtEGf_kFM3maRRIAGubKYcNck3D1=w998-h561-s-no?authuser=0)
 ![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPvD-BofJrI1X4KNkdGOJVpmv7ULZfHgvthMtwGjYDGtLPv3n9S15sUy-7VskILs00EO-jrDbRxA_ZaijPoenVf1qxzkfk3w4CVVr8p783T3kNgdRgW2m3FHVt1wXL2uTd5nuFGNdNefoYXxyKLHUvr=w1223-h688-s-no)
 
 ## Choose a topic
-
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczN0kDlJ3Id11BuRqkJecyVtBl6IhkgS8kRlBtiaQHitpu3JV95H5zbfksqk6FouHWrymVvRhMN83_HoQ_T1261UCrjJq-70LW14zQaXC68Tn6QdBJ_EeI76V5d-qJpLRlBLE8Iey2yrcThcaTJ5u9jP=w935-h655-s-no?authuser=0)
 ![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPx2u-xvzn6kI-WIgE3255EwA80a52uUtvkCJY-n1Pf2sdTgmOOzYH4H1ahTPoAVRZNo_mK-j6weugdMTwymt0IL3ugSYYimu6V2yvNfVIUoQny_EB2fNtm5kYvnbeXBJ7HOM8bsjeCOcJuVkeo6Mng=w935-h655-s-no?authuser=0)
 
 ## Learn
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczN1XFVuvQn4yfMSO7LPJL6UD2lQLk9ZmnaFXIZuH46d_rFbZjuIkqhlpu90Wo36mYf2B02uhqzpWWJDIZwrdpsatPFObdgx8se7JZxfiodRuLnNdx1JbcWrSw8Q_Dpe5Kzbc1mlNoBtmSl0mgwuR0ZJ=w819-h688-s-no?authuser=0)
 ![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPLLNGS7LGdqbD95iZyRZ7J2As0aFuJhed6oT0EE4UvCpll5KjjHDLSYxaBqWRtauu83j_znjLXSxhF4QxBvWBw7lwn1Ch0TCPnCHIz1AwYoQ0alN8Vjf55MkY6t2PmbO9mMn1EiAmAODXFgDBB0c7V=w935-h655-s-no?authuser=0)
 
 ## Explore simulations
 Continue exploring the 23 simulations developed to facilitate learning robotics.
+![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczOQp8i2x5bKfb3Uhr6CIEvULxSE6iHmPQDnkrGzSXpjNUo-hKkOZGJskhG1GmCLl1Ou07tyT-Jxu2O26UK6wnDUaV0f1tSBdtelOj8OZiZPZsGPr8Hc7v5Z2n_czwLPynZYCc7pFW10T3OGsI8YvACm=w998-h468-s-no?authuser=0)
 ![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczPrKTMy8FAO29Z6Emt_hAh8b5kXdnr8NhOrwymtQjy0vZ_IzYmHbgSOHFzkLhbCkpvYPzCLCZHOpm-zixq3MwquXnncHmx4bDoAkp05rLmykFcnLWomIlZabUxssm5bd24cezRNxY2MzXx4ypSsUwJS=w998-h468-s-no?authuser=0)
